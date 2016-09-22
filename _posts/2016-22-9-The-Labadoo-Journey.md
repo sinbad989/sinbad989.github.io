@@ -1,6 +1,6 @@
 ---
 layout: post
-title:The Labadoo Journey
+title: "The Labadoo Journey - Part 1"
 date: 2016-09-22
 ---
 

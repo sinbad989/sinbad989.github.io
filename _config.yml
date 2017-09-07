@@ -1,2 +1,5 @@
 name: Anthony Val Camposano
 markdown: kramdown
+gems:
+  - jekyll-gist
+highlighter: rouge

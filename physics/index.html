@@ -1,0 +1,25 @@
+---
+layout: default
+title: Physics
+---
+<div class="category">
+<h2>
+	<a href="/blog">all posts</a> |
+	<a href="/physics">physics</a> | 
+	<a href="/programming">programming</a> | 
+	<a href="/math">mathematics</a> |
+	<a href="/gis">gis</a> |
+</h2> 
+</div>
+
+<p>Category: Physics </p>
+
+<ul>
+  {% for post in site.categories.Physics %}
+    {% if post.url %}
+        <li><h2><a href="{{ post.url }}">{{ post.title }} -- {{post.date| date_to_string}}</a></h2></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p>This is the Physics blog area!</p>

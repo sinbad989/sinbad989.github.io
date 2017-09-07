@@ -11,13 +11,13 @@ title: Physics
 	<a href="/gis">gis</a> |
 </h2> 
 </div>
-<p>Category: Physics </p>
+<p><i>Category: Physics </i></p>
 <br>
 
 <ul>
-  {% for post in site.categories.Physics %}
+  {% for post in site.categories.physics %}
     {% if post.url %}
-        <li><h2><a href="{{ post.url }}">{{ post.title }} -- {{post.date| date_to_string}}</a></h2></li>
+        <li><h3><a href="{{ post.url }}">{{ post.title }} -- {{post.date| date_to_string}}</a></h3></li>
     {% endif %}
   {% endfor %}
 </ul>

@@ -5,11 +5,14 @@
 * {
     font-family: 'Droid Serif', serif;
 }
+
+:not(h1) {
+    text-align: justify;
+}
 body {
     margin: 60px auto;
     width: 70%;
     overflow-y: scroll;
-    text-align: justify;
 }
 
 nav ul, footer ul {
@@ -80,6 +83,10 @@ p.post_title a{
     font-size:25px;
     color:#069;
     font-weight: bold;
+}
+h2.post_title{
+    font-size: 3em;
+    color:#00c3e6;
 }
 
 p.post_header{

@@ -6,9 +6,11 @@
     font-family: 'Droid Serif', serif;
 }
 
-:not(h1) {
+:not(h1,h2,h3) {
     text-align: justify;
 }
+
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -139,3 +141,6 @@ div.author img{
     margin: center;
 }
 
+.meta {
+    color:  #f90000;
+}

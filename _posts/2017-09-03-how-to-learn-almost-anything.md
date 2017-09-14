@@ -8,7 +8,7 @@ tag: writing
 
 The structure of any human knowledge are two parts — objects and functions. Any field can be simplified by thinking that it is an interplay between the objects of study and the functions involved with it. These framework of thinking is what I’ve been using to study many fields.
 
-Objects — in approaching any knowledge know what is being talked about. What is the subject or the main focus of the story? Once you have that, you may attach some properties relative to that object. These properties provide details to characterize the object. Is it red? Is it invariant? Is it immutable? Is it acidic?
+**Objects** — in approaching any knowledge know what is being talked about. What is the subject or the main focus of the story? Once you have that, you may attach some properties relative to that object. These properties provide details to characterize the object. Is it red? Is it invariant? Is it immutable? Is it acidic?
 
 Examples of objects from different field of study:
 1. Cell in biology
@@ -17,7 +17,7 @@ Examples of objects from different field of study:
 4. Data type (number, string) in computer science
 5. Characters (e.g. Tyrion, Cersei) in literature
 
-Functions — (after knowing the different objects of the field and its properties). Its time to figure out the different functions involved with it. For instance, what it can do, what can you do on it, what its different methods are. Function in a sense that it input an object and vomit another object . In simple terms, what are the different transformation.
+**Functions** — (after knowing the different objects of the field and its properties). Its time to figure out the different functions involved with it. For instance, what it can do, what can you do on it, what its different methods are. Function in a sense that it input an object and vomit another object . In simple terms, what are the different transformation.
 
 Example of object’s function:
 1. Cell division transforms a cell

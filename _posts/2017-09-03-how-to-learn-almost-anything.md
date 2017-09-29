@@ -41,7 +41,7 @@ To learn almost anything these are the steps:
 
 I will be writing a series of articles of the application of these framework of thinking.
 1. Fundamentals of Physics
-2. Fundamentals of Programming
+<a href="https://sinbad989.github.io/programming/2017/09/07/fundamentals-of-programming.html">2. Fundamentals of Programming</a>
 3. Fundamentals of CSS
 4. Fundamentals of Mathematics
 5. Fundamentals of Complex Systems

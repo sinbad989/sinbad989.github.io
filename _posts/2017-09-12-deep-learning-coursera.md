@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Gentle Introduction to Deep Learning"
+title: "An Introduction to Deep Learning"
 date: 2017-09-12
 category: programming 
 tag: deep learning

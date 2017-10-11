@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to Computational Chemistry"
-date: 2017-10-1
+date: 2017-10-11
 category: physics 
 tag: quantum chemistry
 ---

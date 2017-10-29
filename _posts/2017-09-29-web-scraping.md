@@ -13,19 +13,17 @@ The data we're going to extract are from: <a href="http://www.lotto-archive.com"
 
 
 ## 1. Importing the necessary libraries
-![Imported modules]({{site.url}}/img/1.PNG)
-
+<script src="https://gist.github.com/sinbad989/1de26a6adb828ac819f5db736271e03e.js"></script>
 
 ## 2. Extracting the necessary data
-![Extracting the necessary data]({{site.url}}/img/2.PNG)
+<script src="https://gist.github.com/sinbad989/da36dcaf8aa1b5b2d5a20c1a7fcf846d.js"></script>
 
-![Imported modules]({{site.url}}/img/3.PNG)
-
+<script src="https://gist.github.com/sinbad989/8ef629206b2ee1746728a392bd29c6ae.js"></script>
 The result of the head of our dataframe. (df.head())
 
 ![Imported modules]({{site.url}}/img/4.PNG)
 ## 3. Saving the extracted data into a file
 
-![Imported modules]({{site.url}}/img/5.PNG)
+<script src="https://gist.github.com/sinbad989/578b485b9d6a7657facb29f09068b283.js"></script>
 
 

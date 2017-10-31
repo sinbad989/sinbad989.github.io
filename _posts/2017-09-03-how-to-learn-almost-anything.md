@@ -6,6 +6,7 @@ category: physics
 tag: writing
 ---
 
+<div style="text-align: justify;">
 The structure of any human knowledge are two parts — objects and functions. Any field can be simplified by thinking that it is an interplay between the objects of study and the functions involved with it. These framework of thinking is what I’ve been using to study many fields.
 
 **Objects** — in approaching any knowledge know what is being talked about. What is the subject or the main focus of the story? Once you have that, you may attach some properties relative to that object. These properties provide details to characterize the object. Is it red? Is it invariant? Is it immutable? Is it acidic?
@@ -45,3 +46,5 @@ I will be writing a series of articles of the application of these framework of 
 3. Fundamentals of CSS
 4. Fundamentals of Mathematics
 5. Fundamentals of Complex Systems
+
+</div>

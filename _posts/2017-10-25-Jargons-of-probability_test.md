@@ -6,8 +6,10 @@ category: math
 tag: probability
 ---
 
+<div style="text-align: justify;">
 There are some jargons in probability that are worth knowing for they keep recurring in many fields of science.
 The idea of a function in relation to a probability is widespread used in complex systems, statistical mechanics, quantum mechanics, electromagnetism, and many more. So it is just logical to learn the jargons of probability so that next time it will not appear as wild beasts.
+</div>
 
 ### Random Variable:
 a variable that is subject to variations due to random chance. It is a result of a random experiment, a sampling. 

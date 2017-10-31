@@ -6,6 +6,7 @@ category: programming
 tag: fundamentals
 ---
 
+<div style="text-align: justify;">
 The goal of this article is to provide a simplified framework for dealing all programming languages. In my years of studying different programming languages, alongside with mathematics, I found that they share the same structure. These transferable mental structure have speed up my understanding of any new language I encounter.
 
 In the realm of programming, the whole field can be simplified by thinking of two main players, the **data type (object of study)** and the **functions (method)**. The data are objects upon which we operate our functions to generate another data.
@@ -19,3 +20,4 @@ The dynamics of data and function is provided by the looping and iteration rules
 The different language paradigms developed over the years are developed due to the developer’s different mind-set of what to emphasize, data or functions. Object-oriented languages are more inclined to think that everything in the universe is an object. The functional language thinks that everything in the universe is function. The essence of functional programming is that programs are a combination of expression. Expression includes concrete values, variables, and also functions. [1]
 
 [1] Haskell Programming from first Principle
+</div>

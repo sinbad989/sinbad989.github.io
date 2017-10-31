@@ -5,6 +5,7 @@ date: 2017-09-29
 category: programming 
 tag: web scrapping
 ---
+<div style="text-align: justify;">
 The internet is loaded with data waiting to be extracted. Data extraction can sometimes be a repeated task. This is were automation of such process is required. Web scraping automates this task.
 Web scrapping is one of the important skill one should learn if one wants to be a data scientist. One interesting data to explore are lotto results. Various statistics can be explored on this data.
 
@@ -26,4 +27,5 @@ The result of the head of our dataframe. (df.head())
 
 <script src="https://gist.github.com/sinbad989/578b485b9d6a7657facb29f09068b283.js"></script>
 
+<div style="text-align: justify;">
 

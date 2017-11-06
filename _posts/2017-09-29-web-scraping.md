@@ -7,9 +7,11 @@ tag: web scrapping
 ---
 <div style="text-align: justify;">
 The internet is loaded with data waiting to be extracted. Web scraping is data scraping used for extracting data from websites. Any content that can be viewed on a webpage can be scraped. Many available Web scraping tools and software automates this task. In this article, I intend to show how one can web scrap data from a lotto archive using python, more specifically the BeautifulSoup library.
+
 <br>
 <br>
 Web scrapping is one of the important skill one should learn if one wants to be a data scientist. One interesting 
+
 <br>
 <br>
 The data we're going to extract are from: <a href="http://www.lotto-archive.com">http://www.lotto-archive.com</a>

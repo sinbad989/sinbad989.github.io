@@ -10,7 +10,7 @@ The internet is loaded with data waiting to be extracted. Web scraping is data s
 
 <br>
 <br>
-Web scrapping is one of the important skill one should learn if one wants to be a data scientist. One interesting 
+Web scrapping is one of the important skill one should learn if one wants to be a data scientist.
 
 <br>
 <br>

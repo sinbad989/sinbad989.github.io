@@ -51,18 +51,11 @@ $$ \eq H(P(X,Y)) = - \sum P(x) log P(x) $$
 
 
 
+<br>
+<br>
+<br>
 
-{% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
+**To be continue..**
 
+Last Update: 10/28/2017
 
-
-When $$a \ne 0$$, there are two solutions to and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-Test a display math:
-$$
-   |\psi_1\rangle = a|0\rangle + b|1\rangle
-$$
-Is it O.K.?

@@ -6,7 +6,7 @@ category: programming
 tag: deep learning
 ---
 
-<div style="text-align: justify;">
+
 I just completed my Coursera course in <b>Deep Learning Specialization!!</b>
 
 **Courses offered:**
@@ -20,9 +20,6 @@ These courses were very informative. One fundamental idea that one needs to reme
 
 
 Each course offers an effective message: **"Machine learning is a very empirical process!"** This implies the importance of experimentation on different parameters and hyperparameters. Ng stressed the importance of regularization and use of a different optimization algorithm both in weight updates and weight initialization. 
-<br>
 
-<br>
-</div>
 
 

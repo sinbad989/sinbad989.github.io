@@ -6,7 +6,9 @@ category: programming
 tag: cryptography
 ---
 
-Lately, the idea of cryptocurrency and blockchain as a disruptive technology has caught on, somehow overshadowing the fame of 'deep learning'. The fame of bitcoin has catapulted the science of cryptocurrency to the public.  I've read the work of Satoshi Nakamoto, **<a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a>**, but I could not explain his ideas to my friends. Last month, I decided to invest a time to get an idea of how cryptocurrency work. This article is my personal notes about cryptocurrency I've learned from the coursera, *<a href="https://www.coursera.org/learn/cryptocurrency">Bitcoin and Cryptocurrency Technologies of Princeton University</a>*. 
+<div style="text-align: justify;">
+Lately, the idea of cryptocurrency and blockchain as a disruptive technology has caught on, somehow overshadowing the fame of 'deep learning'. The fame of bitcoin has catapulted the science of cryptography to the public.  I've read the work of Satoshi Nakamoto, <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a>, but I don't get it. Last month, I decided to invest time to get an idea of how cryptocurrency works. This article is my personal notes about cryptocurrency I've learned from the course, <a href="https://www.coursera.org/learn/cryptocurrency">Bitcoin and Cryptocurrency Technologies of Princeton University</a>. 
+</div>
 
 **A. Bitcoin: A Peer-to-Peer Electronic Cash System**
 
@@ -23,7 +25,7 @@ Concepts of Cryptocurrecy:
 <br><br>
 **B. Bitcoin and Cryptocurrency Technologies**
 
-Basic Ideas to be familiar:
+Basic Ideas to be familiar: (high level)
 1. hash function
 first cryptographic primitive
 
@@ -118,6 +120,49 @@ crucial question: can we get rid of a central authority?
 
 how everyone can agree upon a transaction history? How can we decentralized it?
 
+Mechanics of Bitcoin: (less technical, low level)
+Bitcoin consensus:
+ - append-only ledger
+ - decentralized consensus
+ - miners to validate transactions
+
+ Fundamental Building block: transaction 
+
+A simplified transaction: only one transaction per block
+ create 25 coins -> credit to Alice
+
+ Alice (25 coins) (17)-> Bob (0 coins)
+ Bob (17 coins) (8)-> Charlie (0 coins)
+ Charlei (8 coins) -> Alice (8 + 5)
+ 
+ * transfer 15 coins from Alice to David (is this valid)
+
+ each transaction has a unique identifier
+
+ finite scan to check for validity - we implement this with hash pointers
+  - joint payments (requires two signature)
+  - merging values
+
+  **bitcoin script**
+  each transaction output does not only specify a simple public key, it also specify a script.
+  what is bitcoin scripting language is?
+   -- output "addresses" are really scripts
+
+  bitcoin scripting language: (not a turing complete language, so no halting problem)
+  1. built for bitcoin 
+  2. simple, compact
+  3. support for cryptography
+  4. stack-based
+  5. limits on time/memory
+  6. No looping (no loop functions)
+
+ -256 opcodes (15 disabled, 75 reserved)
+  - arithmetic
+  - if/then
+  - crypto functions
+
+proof-of-burn : nothing's going to redeem that
+"pay to script hash"
 <br>
 <br>
 

@@ -6,10 +6,9 @@ category: math
 tag: probability
 ---
 
-<div style="text-align: justify;">
 There are some jargons in probability that are worth knowing for they keep recurring in many fields of science.
 The idea of a function in relation to a probability is widespread used in complex systems, statistical mechanics, quantum mechanics, electromagnetism, and many more. So it is just logical to learn the jargons of probability so that next time it will not appear as wild beasts.
-</div>
+
 
 ### Random Variable:
 a variable that is subject to variations due to random chance. It is a result of a random experiment, a sampling. 
@@ -32,8 +31,6 @@ $$ Pr[a \leq X \leq b] = \int_a^b f_{X}(x) dx $$<br>
 2. Discrete Distribution:<br>
 $$  f(t) = \sum p_i \delta (t - x_i) $$
 
-
-
 ### Entropy:
 The entropy of a random variable is a function which attempts to characterize the "unpredictability" of a random variable. Its not about the number of possible outcome, it is also about their frequency. Thought, it sounds like a vague concept, it has a precise mathematical definition.
 
@@ -46,16 +43,14 @@ $$ H(X) = -\sum P(x) \log P(x) $$
 The entropy of a joint probability distribution, or a multi-valued random variable. 
 $$ \eq H(P(X,Y)) = - \sum P(x) log P(x) $$
 
-### Mutual Information:
+### Mutual Information (MI):
+MI of two random variables is a measure of the mutual dependence between the two variables. Specifically quantifying the information content obtained about one random variable, through the other random variable. Thus it is linked to that of entropy of a random variable.
 
+MI of two discrete random variables X and Y can be defined as:
 
+$$ \eq H(P(X,Y)) = - \sum P(x) log P(x) $$
 
-
-<br>
-<br>
-<br>
-
-**To be continue..**
-
+#### References:
+1. https://en.wikipedia.org/wiki/Mutual_information
 Last Update: 10/28/2017
 

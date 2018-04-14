@@ -15,3 +15,12 @@ In particular, we shall focus on the density operator of statistical quantum mec
 - we shall look at how the reduced density matrix of a subsystem is calculated and use this knowledge to inform our understanding of quantum decoherence and the "entropy of entanglement" measure of entanglement
 
 
+# Data Structures in SymPy
+- sympy's symbolic engine takes advantage of object orientation (inheritance in particular) to create an extensible code base
+
+
+# Quantum Mechanics in Sympy
+- Sympy has a base module which provides functionality for symbolic quantum mechanics in Dirac notation
+   - the code has a notion of ket and bras states, operators which acts on these states, Hilbert spaces to which these states and operators belong, as well as inner and tensor products.
+
+   

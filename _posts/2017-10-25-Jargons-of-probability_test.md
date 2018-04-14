@@ -41,15 +41,18 @@ $$ H(X) = -\sum P(x) \log P(x) $$
 
 ### Joint Entropy:
 The entropy of a joint probability distribution, or a multi-valued random variable. 
-$$ \eq H(P(X,Y)) = - \sum P(x) log P(x) $$
 
 ### Mutual Information (MI):
 MI of two random variables is a measure of the mutual dependence between the two variables. Specifically quantifying the information content obtained about one random variable, through the other random variable. Thus it is linked to that of entropy of a random variable.
 
 MI of two discrete random variables X and Y can be defined as:
-
 $$ \eq H(P(X,Y)) = - \sum P(x) log P(x) $$
 
+**Relation to conditional and join entropy**
+$$I(X;Y) &{} \equiv \Eta(X) - \Eta(X|Y) \\
+         &{} \equiv \Eta(Y) - \Eta(Y|X) \\
+         &{} \equiv \Eta(X) + \Eta(Y) - \Eta(X, Y) \\
+         &{} \equiv \Eta(X, Y) - \Eta(X|Y) - \Eta(Y|X)$$
 #### References:
 1. https://en.wikipedia.org/wiki/Mutual_information
 Last Update: 10/28/2017

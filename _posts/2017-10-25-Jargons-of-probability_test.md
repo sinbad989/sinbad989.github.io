@@ -42,17 +42,33 @@ $$ H(X) = -\sum P(x) \log P(x) $$
 ### Joint Entropy:
 The entropy of a joint probability distribution, or a multi-valued random variable. 
 
+
 ### Mutual Information (MI):
-MI of two random variables is a measure of the mutual dependence between the two variables. Specifically quantifying the information content obtained about one random variable, through the other random variable. Thus it is linked to that of entropy of a random variable.
+MI of two random variables is *a measure of the mutual dependence between the two variables.* Specifically quantifying the information content obtained about one random variable, through the other random variable. Thus it is linked to that of entropy of a random variable.
 
 MI of two discrete random variables X and Y can be defined as:
-$$ \eq H(P(X,Y)) = - \sum P(x) log P(x) $$
+$$ I(X;Y) = \sum_{y \in Y} \sum_{x \in X} p(x,y) \log \frac{p(x,y)}{p(x)p(y)}$$
+
+MI of two continuous random variables X and Y can be defined as:
+$$ I(X;Y) = \int_{Y} \int_{X} p(x,y) \log \frac{p(x,y)}{p(x)p(y)} dxdy$$
+
+Note that if X and Y are independent, $$p(x,y)=p(x)p(y)$$ therefore: 
+
+$$\log \frac{p(x,y)}{p(x)p(y)} = \log(1) = 0$$
+
+MI is nonnegative ($$I(X;Y)$$) and symmetric 
+
+($$I(X;Y)=I(Y;X)$$)
 
 **Relation to conditional and join entropy**
-$$I(X;Y) &{} \equiv \Eta(X) - \Eta(X|Y) \\
-         &{} \equiv \Eta(Y) - \Eta(Y|X) \\
-         &{} \equiv \Eta(X) + \Eta(Y) - \Eta(X, Y) \\
-         &{} \equiv \Eta(X, Y) - \Eta(X|Y) - \Eta(Y|X)$$
+
+$$I(X;Y) = H(X)-H(X|Y) $$ <br>
+$$I(X;Y) = H(X,Y)-H(X|Y)-H(Y|X)$$
+
+$$H(X),H(Y)$$ = marginal entropies <br>
+$$H(X|Y)$$ = conditional entropies <br>
+$$H(X,Y)$$ = joint entropies
+
 #### References:
 1. https://en.wikipedia.org/wiki/Mutual_information
 Last Update: 10/28/2017

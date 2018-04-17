@@ -39,8 +39,19 @@ Take for example a random variable X with values $$ X = \{x_1, x_2, ..., x_n\} $
 $$ H(X) = -\sum P(x) \log P(x) $$
 
 
+### Conditional Entroppy 
+quantifies the amoutn of information needed to describe the outcome of a random variable Y given that the value of another random variable X is known. 
+
+
 ### Joint Entropy:
-The entropy of a joint probability distribution, or a multi-valued random variable. 
+The entropy of a joint probability distribution, or a multi-valued random variable. Joint entropy is a measure of the uncertainty associated with a set of variables.
+
+The join *Shannon entropy* of two discrete random variables X and Y is defined as
+
+$$H(X,Y) = - \sum_{x} \sum_{y} P(x,y) \log_{2} [P(x,y)]$$
+
+where x and y are particular values from X and Y and P(x,y) is the joint probability of these values occurring together.
+
 
 
 ### Mutual Information (MI):
@@ -56,20 +67,23 @@ Note that if X and Y are independent, $$p(x,y)=p(x)p(y)$$ therefore:
 
 $$\log \frac{p(x,y)}{p(x)p(y)} = \log(1) = 0$$
 
-MI is nonnegative ($$I(X;Y)$$) and symmetric 
-
-($$I(X;Y)=I(Y;X)$$)
+MI properties:<br>
+a. nonnegative: $$I(X;Y)$$ <br>
+b. symmetric: $$I(X;Y)=I(Y;X)$$)=
 
 **Relation to conditional and join entropy**
 
-$$I(X;Y) = H(X)-H(X|Y) $$ <br>
-$$I(X;Y) = H(X,Y)-H(X|Y)-H(Y|X)$$
+$$1. I(X;Y) = H(X)-H(X\|Y) $$
+$$2. I(X;Y) = H(X,Y)-H(X\|Y)-H(Y\|X) $$ 
+$$3. I(X;Y) = H(X)+H(Y)-H(X,Y) $$
 
 $$H(X),H(Y)$$ = marginal entropies <br>
-$$H(X|Y)$$ = conditional entropies <br>
+$$H(X\|Y)$$ = conditional entropies <br>
 $$H(X,Y)$$ = joint entropies
 
 #### References:
 1. https://en.wikipedia.org/wiki/Mutual_information
-Last Update: 10/28/2017
+
+
+Last Update: 14/04/2018
 

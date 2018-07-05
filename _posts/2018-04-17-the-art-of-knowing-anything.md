@@ -6,7 +6,9 @@ category: physics
 tag: mastery
 ---
 
-When I was young, I was so curious with all the knowledge in this world that I would soak up hours and hours in our Webster dictionary, eventually my mother was able to acquire more books, including some copies of Guinness book of world record. I wrote this book trying to attain the goal of creating a mental structure that one could follow in order to learn almost anything, from mathematics, economics, physics, chemistry, programming, and others. 
+When I was young, I was curious with all the knowledge in this world that I would soak up hours and hours in our set of Webster dictionary. My mother able to acquire more books, including some copies of Guinness book of World Record, and I would return home early from school just to read and look at the peculiar pictures. 
+
+As I age, I started to study if one can create a general mental framework to simplify the learning process - here I am trying to attain the goal of creating a mental structure that one will follow in order to learn almost anything from mathematics, economics, physics, chemistry, programming, and others. 
 
 <hr>
 
@@ -27,29 +29,31 @@ When I was young, I was so curious with all the knowledge in this world that I w
 <hr>
 
 ### Chapter 0. Introduction: Motivation of learning almost anything
-There is a separation of skills between those that requires reading and those that sometimes are based on experience alone. This book tries to tackle the former type of skills and create a simple workflow where one could follow as a mental structure to get into the world of too much information. 
+There is a separation of skills between those that requires reading and those that requires experience alone. This book tries to tackle the former type of skills and create a simple workflow where one could follow as a mental structure to get into the world of information. 
 
-> The thesis of this book lies in the idea that there is a fundamental element in all the knowledge in the world, just as there is a fundamental structure in mathematics. And by knowing these fundamentals you can recreate the knowledge bottom-up approach. And in a way, maybe find some gaps and missed oppurtunity, forge a new path.
+> The thesis of this article is the idea that there is a fundamental element in all the knowledge in the world, just as there is a fundamental structure in mathematics and fundamental elements in matter. And by knowing these fundamentals you can recreate the knowledge bottom-up approach. And maybe, perhaps someday, find some gaps and missed oppurtunity that will led you to forge a new path.
 
 
 
 ### Chapter 1: Get an overview of the whole structure of the field you’re going to master
 1.1 Importance of table of contents
-This technique of trying to create an overview of what the contents of the book has already been covered in many books. I cannot stress more the importance of this method. 
+
+This technique of trying to create an overview of what the contents of the book has already been covered in many books. 
+
 1.2 Create a story out of that structure
+
 I think the best way to see the strength of a method is to see an example of its application. For this purposes, consider the book of Sean Carroll about *An Introduction to General Relativity* but first we will examine its table of content.
 
-     
-The following table of content has a story to tell, something you can tell to yourself when the things start going tough. The book starts with special relativity and flat spacetime, then to manifolds and then to curvature. From here you’ll start wondering why start with special relativity and flat spacetime. Once can also create a short burst of philosophical rambling about your limited knowledge of what a manifold is, or perhaps some wikipedia consultation will help you get a small glimpse of it.
+The following table of content has a story to tell, something to guide you when the things start going tough. The book starts with **special relativity and flat spacetime**, then to **manifolds** and then to **curvature**. From here you’ll start wondering why start with special relativity and flat spacetime. You can also create a short burst of philosophical rambling about your limited knowledge of what a manifold is, or perhaps some wikipedia consultation will help you get a small glimpse of it.
 
  > a manifold is a topological space that locally resembles Euclidean space near each point.
 
-We know we are dealing with space, so curvature of spacetime  has something to do with gravity as well. Then the next chapter started talking about gravitation, only after covering some sections regarding the geometry of space. Afterwards, we start to meet some stranger’s name, Schwarzschild solution must be related to gravitation in some way but we do not know yet. Chapter 6 is now dealing with more general black holes, from which we may suspect that the previous solution has something to do with blackholes. Finally, we start to meet more jargons along the way such as perturbation theory and gravitational radiation, a familiar terminology cosmology which sounds like astrology, and then some hardcore quantum field theory in curved spacetime (woahhh). 
+We are dealing with space, so curvature of spacetime  has something to do with gravity as well. Then the next chapter started talking about gravitation, only after covering some sections regarding the geometry of space. Afterwards, we start to meet some stranger’s name, **Schwarzschild solution** must be related to gravitation in some way but we do not know yet. Chapter 6 is now dealing with more general **black holes**, from which we may suspect that the previous solution has something to do with blackholes. Finally, we start to meet more jargons along the way such as **perturbation theory** and **gravitational radiation**, a familiar terminology **cosmology**, and then some hardcore **quantum field theory in curved spacetime** (woahhh). 
 
 ### Chapter 2: Get the objects and functions
-Now that you know the structure of the book you aim to master, we need to know the players and relationships of the field. The players of a field is known as the objects of study, while the relationships of these objects are known as the functions. 
+Now that you know the structure of the book you aim to master, you need to know the players and relationships of the field. The players of a field is known as the objects of study, while the relationships of these objects are known as the functions. 
 
-Astonishly, the structure of any human knowledge are two parts — objects and functions. Any field can be simplified by thinking that it is an interplay between the objects of study and the functions involved with it. These framework of thinking is what I’ve been using to study many fields.
+Astonishly, the structure of any human knowledge are two parts — objects and functions. Any field can be simplified by thinking that it is an interplay between objects of study and functions involved with it. These framework of thinking is what I’ve been using to study many fields.
 
 **Objects** — in approaching any knowledge know what is being talked about. What is the subject or the main focus of the story? Once you have that, you may attach some properties relative to that object. These properties provide details to characterize the object. Is it red? Is it invariant? Is it immutable? Is it acidic?
 
@@ -94,11 +98,8 @@ When it comes to proving our assertions, claims, and arguments it is easier if w
 
 At this stage, you should have covered a few chapters of the book you are trying to master. Now that you have added details into your knowledge for each chapter you can somehow now create an interconnection between each chapters.
 
-You should have now developed a detailed story of the interrelationship of each chapter. For instance, of how the flat-spacetime and special relativity was a prerequisite knowledge before you go the field of manifolds. Or perhaps, while manifold was introduced first to give you a background on the field of curvature.
+You should have now developed a detailed story of the interrelationship of each chapter. For instance, of how the flat-spacetime and special relativity was a prerequisite knowledge before you go the field of manifolds. Or perhaps, how manifold was introduced first to give you a background on the field of curvature.
 
 ### Chapter 5: Read More - Consult Others
 
-If you've finished the whole book itself, you should now be able to create a single paragraph summary of the whole story of the book. From its prerequisite details down to the main concepts of each chapters. Now, your next target is to have another point of view of the field your mastering; that is, you need to get a new book from a different author to see how they see the field. 
-
-
-
+If you've finished the whole book itself, you should now be able to create a single paragraph summary of the whole story of the book. From its prerequisite details down to the main concepts of each chapters. Now, your next target is to have another point of view of the field your mastering; that is, you need to get a new book from a different author to get their perspective of the field. 

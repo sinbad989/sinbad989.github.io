@@ -8,7 +8,7 @@ tag: mastery
 
 When I was young, I was curious with all the knowledge in this world that I would soak up hours and hours in our set of Webster dictionary. My mother able to acquire more books, including some copies of Guinness book of World Record, and I would return home early from school just to read and look at the peculiar pictures. 
 
-As I age, I started to study if one can create a general mental framework to simplify the learning process - here I am trying to attain the goal of creating a mental structure that one will follow in order to learn almost anything from mathematics, economics, physics, chemistry, programming, and others. 
+As I age, I started to realize that one can create a general mental framework to simplify the learning process - here I will introduce a method to attain the goal of creating a mental structure that one should follow in order to learn almost anything from mathematics, economics, physics, chemistry, programming, and others. 
 
 <hr>
 

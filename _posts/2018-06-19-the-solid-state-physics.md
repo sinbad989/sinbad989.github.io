@@ -3,7 +3,7 @@ layout: post
 title: "The Solid State Physics Notes"
 date: 2018-06-19
 category: physics 
-tag: mastery
+tag:  solid state
 ---
 Physics of Solids without Considering Microscopic Structure: The Early Days of Solid State
 

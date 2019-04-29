@@ -52,7 +52,7 @@ h1{
 }
 
 h2.category {
-    color:#00c3e6;
+    color:#999;
     display: inline;
     align-content: : center;
     text-align: right;
@@ -89,7 +89,7 @@ p.post_title a{
 }
 h2.post_title{
     font-size: 3em;
-    color:#00c3e6;
+    color:#999;
 }
 
 p.post_header{
@@ -137,8 +137,8 @@ div.author a{
 }
 
 div.author img{
-    width: 100%;
-    height: 100%;
+    width: 75%;
+    height: 50%;
     margin: center;
 }
 

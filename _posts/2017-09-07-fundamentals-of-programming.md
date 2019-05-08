@@ -6,7 +6,6 @@ category: programming
 tag: fundamentals
 ---
 
-<div style="text-align: justify;">
 The goal of this article is to provide a simplified framework for dealing all programming languages. In my years of studying different programming languages, alongside with mathematics, I found that they share the same structure. These transferable mental structure have speed up my understanding of any new language I encounter.
 <br>
 <br>
@@ -18,6 +17,8 @@ In the realm of programming, the whole field can be simplified by thinking of tw
 
 
 <b>Data type:</b> a classification of data that determines how the compiler or interpreter will process the data. It defines the allowable operations on the data, the meaning of the data, and how the data can be stored.
+
+There are two kind of data type: the `primitive data type` and the `data structure`.
 
 <br>
 <br>
@@ -39,4 +40,3 @@ The different language paradigms developed over the years are developed due to t
 
 <br>
 <br>
-</div>

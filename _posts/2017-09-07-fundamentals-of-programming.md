@@ -17,6 +17,7 @@ There are two kind of data type: the `primitive data type` and the `data structu
 
 Primitive data type:
 - character, integer, floating-point number, boolean
+
 Data structure:
 - array, linked list, record, union, dictionary, tuple
 
@@ -33,9 +34,11 @@ The dynamics of data and function is provided by the looping and iteration rules
 The different language paradigms developed over the years are developed due to the developer’s different mind-set of what to emphasize, data or functions.
 
 A. Object-oriented languages are more inclined to think that everything in the universe is an object.
-B. The functional language thinks that everything in the universe can be expressed using function. The essence of functional programming is that programs are a combination of expression. Expression includes concrete values, variables, and also functions. [1]
-C. Imperative paradigm in a nutshell can be expressed as "first do this and next do that". [2]
-D. 
 
-[1] Haskell Programming from first Principle
+B. The functional language thinks that everything in the universe can be expressed using function. The essence of functional programming is that programs are a combination of expression. Expression includes concrete values, variables, and also functions. [1]
+
+C. Imperative paradigm in a nutshell can be expressed as "first do this and next do that". [2]
+
+[1] Haskell Programming from first Principle <br>
+
 [2] http://people.cs.aau.dk/~normark/prog3-03/html/notes/paradigms_themes-paradigm-overview-section.html

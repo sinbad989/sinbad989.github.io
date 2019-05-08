@@ -2,7 +2,7 @@
 layout: post
 title: "Fundamentals of Programming"
 date: 2017-09-07
-category: programming 
+category: programming
 tag: fundamentals
 ---
 
@@ -18,7 +18,6 @@ In the realm of programming, the whole field can be simplified by thinking of tw
 
 
 <b>Data type:</b> a classification of data that determines how the compiler or interpreter will process the data. It defines the allowable operations on the data, the meaning of the data, and how the data can be stored.
-
 
 <br>
 <br>
@@ -37,4 +36,7 @@ The different language paradigms developed over the years are developed due to t
 <br>
 <br>
 [1] Haskell Programming from first Principle
+
+<br>
+<br>
 </div>

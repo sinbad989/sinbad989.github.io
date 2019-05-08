@@ -25,11 +25,11 @@ Data structures are generally built upon primitive data type. In simple terms, d
 **Function:** a clustered sequence of operation to perform a well defined action. Different programming languages uses different terminology for functions: methods, sub-routines, procedures. Function introduces a key concept in programming called scope.
 
 
-# Dynamic Concepts in Programming
+## Dynamic Concepts in Programming
 The dynamics of data and function is provided by the looping and iteration rules. The ‘for’ loop and ‘while’ loop are some example of providing a dynamic to the whole program. This dynamics allow the programming language to solve problems in a faster way. These dynamics provide the DRY (don't repeat yourself) principle a role in programming.
 
 
-# Language Paradigms
+## Language Paradigms
 The different language paradigms developed over the years are developed due to the developer’s different mind-set of what to emphasize, data or functions. Object-oriented languages are more inclined to think that everything in the universe is an object. The functional language thinks that everything in the universe is function. The essence of functional programming is that programs are a combination of expression. Expression includes concrete values, variables, and also functions. [1]
 
 

@@ -20,7 +20,7 @@ Around 1927, years after the introduction of the Schrodinger equation, Born and 
 
 This Hartree equation where then further improved with the addition of the anti-symmetry principle of electrons. This lead to the introduction of a new term in the equation, now known as the exchange term capable of removing the unphysical quantities appearing in hartree equation.
 <div>
-    <img src="/assets/hfeq.jpg">
+    <img src="/assets/hfeq.JPG">
 </div>
 This Hartree equation where then further improved with the addition of the anti-symmetry principle of electrons. With this was the introduction of a new term in the equation, now known as the exchange term capable of removing the unphysical quantities appearing in hartree equation. It became known as the Hartree-Fock equation, because of the contribution of Fock on this part. Fock, actually used group theory, while Hartree  made it understandable for mere mortals. But it took a long time for the hatree-fock equation to be appecriated by the mere mortals. It was the advent of the digital computers that people started to notice the power of Hartree-Fock equation. Just like any other stuff, scientists were not contented with what HF equation can do. It poise some inaccuracy and some smart guys started playing with the idea of using density matrix instead of wavefunction as a unit of information container for the quantum system. The idea turn out to be a brilliant one,and the scientist, Kohn, Sham, and Hohenberg brought to the world the density functional method. Upon which, the wizards, Kohn and Sham was awarded a Nobel price in Chemistry (1998).
 
